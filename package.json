@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "description": "building api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkRose11/bticoin-api.git"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "Badr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkRose11/bticoin-api/issues"
+  },
+  "homepage": "https://github.com/DarkRose11/bticoin-api#readme"
+}
